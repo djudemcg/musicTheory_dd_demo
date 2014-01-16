@@ -70,7 +70,7 @@
          spelling: [0, 3, 6]
      }, {
          type: "maj7",
-         spelling: [0, 4, 7, 10]
+         spelling: [0, 4, 7, 11]
      }, {
          type: "min7",
          spelling: [0, 3, 7, 10]
